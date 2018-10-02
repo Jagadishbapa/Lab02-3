@@ -1,2 +1,2 @@
-# Lab02
-This is my Lab
+Lab02
+Spencer Grace COSC 2030
